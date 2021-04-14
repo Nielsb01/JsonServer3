@@ -1,0 +1,27 @@
+{
+"target": "client 1",
+"actionType": "chat",
+"origin": "client 2",
+    	"chatAction": 
+	{
+        	"chat": "team",
+        	"message": "Hello World",
+    	},
+	"moveAction": 
+	{
+        	"originLocX": "8",
+		"originLocY": "6",
+        	"destinationLocX": "8",
+		"destinationLocY": "7",
+    	},
+	"attackAction": 
+	{
+        	"target": 
+		{
+		"name": "creature299",
+		"TODOaddStats": "none",
+		},
+		"hitChance": "24",
+        	"destinationLocX": "16"
+    	}
+}
