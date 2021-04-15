@@ -7,5 +7,20 @@
     "chatAction": {
       "chat": "team",
       "message": "hello world"
+    },
+    "moveAction": {
+      "originLocX": 5,
+      "originLocY": 7,
+      "destinationLocX": 5,
+      "destinationLocY": 8
+    },
+    "attackAction": {
+      "attackTarget": {
+        "type": "zombie",
+        "id": 219,
+        "hp": 20
+      },
+      "hitChance": 18,
+      "damage": 7
     }
 }
