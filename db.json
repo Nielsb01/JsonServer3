@@ -1,7 +1,10 @@
 {
     "header": {
       "target": "host",
-      "origin": "client1",
+      "origin": {
+        "name": "Niels",
+        "id": 1
+      },
       "actionType": "chat"
     },
     "chatAction": {
