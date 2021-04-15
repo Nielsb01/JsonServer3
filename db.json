@@ -1,5 +1,4 @@
 {
-  "payload": {
     "header": {
       "target": "host",
       "origin": "client1",
@@ -9,5 +8,4 @@
       "chat": "team",
       "message": "hello world"
     }
-  }
 }
