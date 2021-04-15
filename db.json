@@ -1,27 +1,31 @@
 {
-"target": "client 1",
-"actionType": "chat",
-"origin": "client 2",
-    	"chatAction": 
-	{
-        	"chat": "team",
-        	"message": "Hello World"
-    	},
-	"moveAction": 
-	{
-        	"originLocX": "8",
-		"originLocY": "6",
-        	"destinationLocX": "8",
-		"destinationLocY": "7"
-    	},
-	"attackAction": 
-	{
-        	"target": 
-		{
-		"name": "creature299",
-		"TODOaddStats": "none",
-		},
-		"hitChance": "24",
-        	"destinationLocX": "16"
-    	}
+"posts": [
+{
+"id": 1,
+"title": "Post 1"
+},
+{
+"id": 2,
+"title": "Post 2"
+},
+{
+"id": 3,
+"title": "Post 3"
+}
+],
+"comments": [
+{
+"id": 1,
+"body": "some comment",
+"postId": 1
+},
+{
+"id": 2,
+"body": "some comment",
+"postId": 1
+}
+],
+"profile": {
+"name": "typicode"
+}
 }
