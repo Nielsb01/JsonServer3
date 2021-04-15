@@ -5,14 +5,14 @@
     	"chatAction": 
 	{
         	"chat": "team",
-        	"message": "Hello World",
+        	"message": "Hello World"
     	},
 	"moveAction": 
 	{
         	"originLocX": "8",
 		"originLocY": "6",
         	"destinationLocX": "8",
-		"destinationLocY": "7",
+		"destinationLocY": "7"
     	},
 	"attackAction": 
 	{
