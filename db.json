@@ -1,11 +1,13 @@
 {
-  "header": {
-    "target": "host",
-    "origin": "client1",
-    "actionType": "chat"
-  },
-  "chatAction": {
-    "chat": "team",
-    "message": "hello world"
+  "payload": {
+    "header": {
+      "target": "host",
+      "origin": "client1",
+      "actionType": "chat"
+    },
+    "chatAction": {
+      "chat": "team",
+      "message": "hello world"
+    }
   }
 }
